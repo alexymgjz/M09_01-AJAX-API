@@ -1,0 +1,22 @@
+[
+{
+    "nombre":"juan",
+    "puesto_de_trabajo":"programador",
+    "edad": 20
+},
+{
+    "nombre":"pedro",
+    "puesto_de_trabajo":"looco",
+    "edad": 26
+},
+{
+    "nombre":"jose",
+    "puesto_de_trabajo":"lector",
+    "edad": 28
+},
+{
+    "nombre":"alex",
+    "puesto_de_trabajo":"texter",
+    "edad": 24
+}
+]

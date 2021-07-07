@@ -1,0 +1,42 @@
+
+.container{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(128, 199, 141);
+    border-radius: 14px;
+}
+
+button{
+    width: max-content;
+    border-radius: 14px;
+    background-color: rgba(80, 29, 29, 0.317);
+    padding: 1rem;
+    user-select: none;
+    margin-bottom: 1rem;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(128, 166, 199);
+}
+#mostrarArreglo_json{
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: -2rem;
+    li{
+        text-align: start;
+        user-select: none;
+        background-color: rgba(80, 29, 29, 0.317);
+        padding: 1rem;
+        border-radius: 14px;
+        color: blanchedalmond;
+    }
+}

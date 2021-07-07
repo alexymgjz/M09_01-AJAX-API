@@ -1,0 +1,46 @@
+{
+    "empleados":[
+        {
+            "nombre":"juan",
+            "puesto_de_trabajo":"programador",
+            "edad": 20
+        },
+        {
+            "nombre":"Pedro",
+            "puesto_de_trabajo":"looco",
+            "edad": 26
+        },
+        {
+            "nombre":"jose",
+            "puesto_de_trabajo":"lector",
+            "edad": 28
+        },
+        {
+            "nombre":"alex",
+            "puesto_de_trabajo":"texter",
+            "edad": 24
+        }
+        ],
+        "empleadosTemporales":[
+            {
+                "nombre":"juanjuan",
+                "puesto_de_trabajo":"programador",
+                "edad": 20
+            },
+            {
+                "nombre":"pedropedro",
+                "puesto_de_trabajo":"looco",
+                "edad": 26
+            },
+            {
+                "nombre":"josejose",
+                "puesto_de_trabajo":"lector",
+                "edad": 28
+            },
+            {
+                "nombre":"alexalex",
+                "puesto_de_trabajo":"texter",
+                "edad": 24
+            }
+            ]
+}
